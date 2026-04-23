@@ -52,7 +52,7 @@ portfolio/
 ├── script.js
 ├── assets/
 │   ├── images/
-│   └── icons/
+│   └── favicon/
 └── README.md
 ```
 
