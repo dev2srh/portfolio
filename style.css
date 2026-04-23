@@ -46,8 +46,8 @@ a {
 }
 
 #header > div {
+  width: 33%;
   display: flex;
-  justify-content: center;
   align-items: center;
   padding: 10px;
   padding: 0 25px 00 25px;
@@ -62,6 +62,7 @@ a {
   gap: 25px;
   font-size: 1.1rem;
   font-weight: 300;
+  justify-content: center;
 }
 
 #header-middle a {
@@ -76,6 +77,7 @@ a {
 #header-right {
   gap: 25px;
   font-size: 1.4rem;
+  justify-content: right;
 }
 
 #intro {
